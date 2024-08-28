@@ -1,0 +1,12 @@
+# /requirements.txt
+
+flask
+flask-restful
+python-dotenv
+python-jose
+python-jose[cryptography]
+flask-cors
+authlib
+requests
+flask-sqlalchemy
+flask-session
